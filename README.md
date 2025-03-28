@@ -5,7 +5,8 @@
 ### Olá 👋
 
 ###### Sobre o Leonardo
-Inicio da carreira de dev
+Inicio da carreira de dev.
+Espero criar muitos conteúdos para incluir em meu perfil.
 
 ### Detalhes
 
@@ -18,10 +19,6 @@ Inicio da carreira de dev
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardorRah&layout=compact)](https://github.com/LeonardorRah/github-readme-stats)
-
-### Time
-
-[![LeonardorRah's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeonardorRah)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
