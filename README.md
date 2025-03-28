@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1080" src="src/image/img-01">
+    <img width="1080" src="src/image/IMG_01.png">
 </p>
 
 ### Olá 👋
