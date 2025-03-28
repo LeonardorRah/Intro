@@ -9,7 +9,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardorRah&repo=variavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardorRah&repo=variavel&theme=dark)](https://github.com/LeonardorRah/github-readme-stats)
 
 ### Linguagens utilizadas
 
