@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1080" src="src/image/img_01.jpg">
+</p>
+
 ### Olá 👋
 
 ###### Sobre o Leonardo
