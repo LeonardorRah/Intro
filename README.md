@@ -6,7 +6,7 @@ Aprendendo a programar e desenvolver em Java
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=LeonardorRah&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![LeonardorRah's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=LeonardorRah&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Projetos
 
